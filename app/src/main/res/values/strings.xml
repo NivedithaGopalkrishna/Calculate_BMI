@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group22_HW01</string>
+    <string name="BmiHeight" />
+    <string name="BmiWeight">" "</string>
+    <string name="BmiHeightin" />
+    <string name="BmiDisp" />
+    <string name="BmiDispStatus" />
+    <string name="calculate_button_label">Calculate BMI</string>
+</resources>
